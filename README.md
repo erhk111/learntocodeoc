@@ -12,3 +12,10 @@
 | 2:00 - 2:15PM | Break |
 | 2:15 - 3:00PM | Javascript Variables and Functions |
 
+##Computer Setup
+###Exercise 1.0
+1. Install Sublime Text (http://www.sublimetext.com/2)
+2. On Windows, Install Git Bash (https://msysgit.github.io/)
+3. 
+
+###
