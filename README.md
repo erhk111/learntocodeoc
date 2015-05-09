@@ -26,8 +26,8 @@
 
 ###Exercise 1.1
 1. Creating files and directories with style.
-* Always lower-case
-* Always separate words with hypens, instead of spaces
+- Always lower-case
+- Always separate words with hypens, instead of spaces
 2. Only use periods in file names to denote extensions
 3. Create a directory called learn-to-code.
 4. Create a file in the directory called index.html.
