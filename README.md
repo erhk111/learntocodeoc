@@ -1,6 +1,7 @@
 #Learn to Code
 
-##Schedule: Saturday, May 9th 2015
+##Schedule
+###Saturday, May 9th 2015
 | Time | Description |
 |----------------|--------------------------------|
 | 11:00 - 1200PM | Introductions / Computer Setup |  
