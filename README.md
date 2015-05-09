@@ -16,6 +16,18 @@
 ###Exercise 1.0
 1. Install Sublime Text (http://www.sublimetext.com/2)
 2. On Windows, Install Git Bash (https://msysgit.github.io/)
-3. 
 
-###
+###Discussion
+* Navigating file systems at the command line with, pwd, cd, and ls.
+* Creating files at the command line with mkdir, and touch.
+* Copying, moving files, and deleting with cp, mv, and rm.
+* edirecting and pipes.
+* Printing files with cat and less.
+
+###Exercise 1.1
+1. Creating files and directories with style.
+* Always lower-case
+* Always separate words with hypens, instead of spaces
+2. Only use periods in file names to denote extensions
+3. Create a directory called learn-to-code.
+4. Create a file in the directory called index.html.
