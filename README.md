@@ -23,11 +23,11 @@
 * Copying, moving files, and deleting with cp, mv, and rm.
 * edirecting and pipes.
 * Printing files with cat and less.
-
-###Exercise 1.1
-Creating files and directories with style.
+* Creating files and directories with style.
 - Always lower-case
 - Always separate words with hypens, instead of spaces
-2. Only use periods in file names to denote extensions
-3. Create a directory called learn-to-code.
-4. Create a file in the directory called index.html.
+
+###Exercise 1.1
+1. Only use periods in file names to denote extensions
+2. Create a directory called learn-to-code.
+3. Create a file in the directory called index.html.
