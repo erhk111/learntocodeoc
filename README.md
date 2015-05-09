@@ -1,6 +1,6 @@
 #Learn to Code
 
-#######Schedule
+##Schedule
 | Time | Description |
 |----------------|--------------------------------|
 | 11:00 - 1200PM | Introductions / Computer Setup |  
