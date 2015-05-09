@@ -1,6 +1,7 @@
 #Learn to Code
 
 #######Schedule
+| Time | Description |
 |----------------|--------------------------------|
 | 11:00 - 1200PM | Introductions / Computer Setup | 
 | 12:00 - 12:15PM | Break |  
