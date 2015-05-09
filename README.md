@@ -25,7 +25,7 @@
 * Printing files with cat and less.
 
 ###Exercise 1.1
-1. Creating files and directories with style.
+Creating files and directories with style.
 - Always lower-case
 - Always separate words with hypens, instead of spaces
 2. Only use periods in file names to denote extensions
