@@ -1,6 +1,7 @@
 #Learn to Code
 
 #######Schedule
+|----------------|--------------------------------|
 | 11:00 - 1200PM | Introductions / Computer Setup | 
 | 12:00 - 12:15PM | Break |  
 12:15 - 1:00PM Files and Navigating File Systems 
