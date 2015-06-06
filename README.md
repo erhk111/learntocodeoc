@@ -1,14 +1,14 @@
 #Learn to Code
 
 ##Schedule
-###Saturday, May 23rd 2015
+###Saturday, June 6th 2015
 | Time | Description |
 |----------------|--------------------------------|
 | 11:00 - 1200PM | Introductions / Computer Setup | 
 | 12:00 - 12:15PM | Break |
-| 12:15 - 1:00PM | Introduction to Bootstrap | 
+| 12:15 - 1:00PM | Introduction to jQuery Selectors | 
 | 1:00 - 1:15PM | Break |
-| 1:15 - 2:00PM | Introduction to jQuery |
+| 1:15 - 2:00PM | Introduction to jQuery DOM Manipulation|
 
 ##Computer Setup
 ###Exercise 1.0
