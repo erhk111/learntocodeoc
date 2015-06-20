@@ -39,9 +39,7 @@ git clone https://github.com/ronperris/learntocodeoc.git
 2. Working with the Event Object. https://api.jquery.com/category/events/event-object/
 
 ###Exercise 5.0 (jQuery DOM Manipulation)
-1. Create a *ul* in the footer.
-2. Select all the ul elements.
-3. Hide all the ul elements.
+1. Adding content to the DOM with append() http://api.jquery.com/append/
 
 Tips:
 * On a Mac press Command + Space Bar to open the finder. Type in `Terminal`.
