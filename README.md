@@ -1,7 +1,7 @@
 #Learn to Code
 
 ##Schedule
-###Saturday, June 6th 2015
+###Saturday, June 20th 2015
 | Time | Description |
 |----------------|--------------------------------|
 | 11:00 - 1200PM | Introductions / Computer Setup / Clone Our Repo |
