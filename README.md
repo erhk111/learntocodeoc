@@ -1,7 +1,7 @@
 #Learn to Code
 
 ##Schedule
-###Saturday, June 6th 2015
+###Saturday, June 20th 2015
 | Time | Description |
 |----------------|--------------------------------|
 | 11:00 - 1200PM | Introductions / Computer Setup / Clone Our Repo |
@@ -32,22 +32,14 @@ Type the following in Terminal or Git Bash
 git clone https://github.com/ronperris/learntocodeoc.git
 ```
 
-Tips:
-* Navigate the file systems at the command line with, pwd, cd, and ls.
-* Create files at the command line with mkdir, and touch.
-* Copy, move files, and delete with cp, mv, and rm.
-* Print files with cat and less.
-* Create files and directories with style.
-- Always lower-case
-- Always separate words with hypens, instead of spaces
+###Exercise 3.0 (Review HTML, CSS, Bootstrap, jQuery Selectors)
 
-###Exercise 1.1 (Bootstrap)
-1. Create a two column bootstrap layout with a footer.
+###Exercise 4.0 (JQuery Event Listeners)
+1. Registering Event Listeners with on(). http://api.jquery.com/on/
+2. Working with the Event Object. https://api.jquery.com/category/events/event-object/
 
-###Exercise 1.2 (jQuery)
-1. Create a *ul* in the footer.
-2. Select all the ul elements.
-3. Hide all the ul elements.
+###Exercise 5.0 (jQuery DOM Manipulation)
+1. Adding content to the DOM with append() http://api.jquery.com/append/
 
 Tips:
 * On a Mac press Command + Space Bar to open the finder. Type in `Terminal`.
