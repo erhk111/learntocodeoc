@@ -1,0 +1,23 @@
+{
+  "name": "learntocodeoc",
+  "version": "1.0.0",
+  "description": "##Schedule ###Saturday, June 20th 2015 | Time | Description | |----------------|--------------------------------| | 11:00 - 1200PM | Introductions / Computer Setup / Clone Our Repo | | 12:00 - 12:15PM | Break | | 12:15 - 1:00PM | Introduction to jQuery Event Listeners | | 1:00 - 1:15PM | Break | | 1:15 - 2:00PM | Introduction to jQuery DOM Manipulation|",
+  "main": "default.js",
+  "dependencies": {
+    "express": "^4.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ronperris/learntocodeoc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronperris/learntocodeoc/issues"
+  },
+  "homepage": "https://github.com/ronperris/learntocodeoc"
+}
