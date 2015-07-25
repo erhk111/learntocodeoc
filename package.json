@@ -4,7 +4,8 @@
   "description": "##Schedule ###Saturday, June 20th 2015 | Time | Description | |----------------|--------------------------------| | 11:00 - 1200PM | Introductions / Computer Setup / Clone Our Repo | | 12:00 - 12:15PM | Break | | 12:15 - 1:00PM | Introduction to jQuery Event Listeners | | 1:00 - 1:15PM | Break | | 1:15 - 2:00PM | Introduction to jQuery DOM Manipulation|",
   "main": "default.js",
   "dependencies": {
-    "express": "^4.13.1"
+    "express": "^4.13.1",
+    "gulp": "^3.9.0"
   },
   "devDependencies": {},
   "scripts": {
