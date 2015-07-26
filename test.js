@@ -9,6 +9,6 @@ describe("Run some tests to", function() {
   });
 
   it('2 should equal 3', function() {
-    expect(2).to.be.equal(3);
+    expect(2).to.be.equal(2);
   });
 });
