@@ -1,14 +1,12 @@
 #Learn to Code
 
 ##Schedule
-###Saturday, June 20th 2015
+###Saturday, August 22th 2015
 | Time | Description |
 |----------------|--------------------------------|
 | 11:00 - 1200PM | Introductions / Computer Setup / Clone Our Repo |
-| 12:00 - 12:15PM | Break |
-| 12:15 - 1:00PM | Introduction to jQuery Event Listeners |
-| 1:00 - 1:15PM | Break |
-| 1:15 - 2:00PM | Introduction to jQuery DOM Manipulation|
+| 12:00 - 12:30PM | Break |
+| 12:30 - 1:30PM | Introduction to jQuery Event Listeners and DOM Manipulation |
 
 ##Computer Setup
 ###Exercise 1.0
@@ -39,7 +37,7 @@ git clone https://github.com/ronperris/learntocodeoc.git
 2. Working with the Event Object. https://api.jquery.com/category/events/event-object/
 
 ###Exercise 5.0 (jQuery DOM Manipulation)
-1. Adding content to the DOM with append() http://api.jquery.com/append/
+1. Show and hide elements with toggle(). http://api.jquery.com/toggle/
 
 Tips:
 * On a Mac press Command + Space Bar to open the finder. Type in `Terminal`.
