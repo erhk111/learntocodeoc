@@ -1,7 +1,7 @@
 #Learn to Code
 
 ##Schedule
-###Saturday, August 22th 2015
+###Saturday, August 29th 2015
 | Time | Description |
 |----------------|--------------------------------|
 | 11:00 - 1200PM | Introductions / Computer Setup / Clone Our Repo |
