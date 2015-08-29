@@ -31,6 +31,8 @@ git clone https://github.com/ronperris/learntocodeoc.git
 ```
 
 ###Exercise 3.0 (Review HTML, CSS, Bootstrap, jQuery Selectors)
+1. Open the learntocodeoc/ directory with WebStorm.
+2. Open the file called jumbotron.html.
 
 ###Exercise 4.0 (JQuery Event Listeners)
 1. Registering Event Listeners with on(). http://api.jquery.com/on/
