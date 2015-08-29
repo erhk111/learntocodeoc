@@ -1,5 +1,10 @@
 #Learn to Code
 
+Wifi
+----
+* ROC3Wifi
+* ROCnb4590
+
 ##Schedule
 ###Saturday, August 29th 2015
 | Time | Description |
