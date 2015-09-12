@@ -15,19 +15,9 @@ Wifi
 
 ##Computer Setup
 ###Exercise 1.0
-1. Webstorm https://www.jetbrains.com/webstorm/
+1. Install Sublime Text 2. http://www.sublimetext.com/2
 2. On Windows, Install Git Bash (https://msysgit.github.io/)
-```
-WebStorm keys:
 
-User name: Orange County Code School
-===== LICENSE BEGIN =====
-1020552-20052015
-000016LHRUgySNCJQ7rJ8QuAj2KJFX
-vzfTzxsGIIdp76Ej96LGf7dPGQAiGc
-N4Ibx4kxi9x2eSwztvcmZfBUJTX!0F
-===== LICENSE END =====
-```
 ###Exercise 2.0
 1. Clone our github repo.
 Type the following in Terminal or Git Bash
