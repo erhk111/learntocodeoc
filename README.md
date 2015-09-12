@@ -6,7 +6,7 @@ Wifi
 * ROCnb4590
 
 ##Schedule
-###Saturday, August 29th 2015
+###Saturday, September 12th 2015
 | Time | Description |
 |----------------|--------------------------------|
 | 11:00 - 1200PM | Introductions / Computer Setup / Clone Our Repo |
