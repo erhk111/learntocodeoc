@@ -48,4 +48,18 @@ console.log('Hello World');
 
 ###Exercise 5.0 (node.js webserver)
 1. Open the file learntocodeoc/server/app.js
-2. 
+2. Type in the following.
+````
+var http = require('http');
+
+const PORT=8080; 
+
+var server = http.createServer(function(request, response) {
+  console.log(request.url);
+  response.end('Hello world.')
+});
+
+server.listen(PORT, function(){
+    console.log("Server listening on: http://localhost:%s", PORT);
+});
+````
