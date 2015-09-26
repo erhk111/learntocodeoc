@@ -25,13 +25,16 @@ Type the following in Terminal or Git Bash
 git clone https://github.com/ronperris/learntocodeoc.git
 ```
 
-###Exercise 3.0 (Review HTML, CSS, Bootstrap, jQuery Selectors)
-1. Open the learntocodeoc/ directory with WebStorm.
-2. Open the file called jumbotron.html.
+###Exercise 3.0 (Install node.js)
+1. Navigate to https://nodejs.org/en/download/ in your web browser.
+2. Install the correct version for you platform.
 
-###Exercise 4.0 (JQuery Event Listeners)
-1. Registering Event Listeners with on(). http://api.jquery.com/on/
-2. Working with the Event Object. https://api.jquery.com/category/events/event-object/
+###Exercise 4.0 (node.js REPL)
+1. Run the node.js command in your terminal. (Git Bash or Terminal)
+2. Type in the following command.
+````
+console.log('Hello World');
+````
 
 ###Exercise 5.0 (jQuery DOM Manipulation)
 1. Show and hide elements with toggle(). http://api.jquery.com/toggle/
