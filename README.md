@@ -13,6 +13,16 @@ Wifi
 | 12:00 - 12:30PM | Break |
 | 12:30 - 1:30PM | Introduction to node.js and building a web server! |
 
+Tips:
+* On a Mac press Command + Space Bar to open the finder. Type in `Terminal`.
+* Navigate the file systems at the command line with, pwd, cd, and ls.
+* Create files at the command line with mkdir, and touch.
+* Copy, move files, and delete with cp, mv, and rm.
+* Print files with cat and less.
+* Create files and directories with style.
+- Always lower-case
+- Always separate words with hypens, instead of spaces
+
 ##Computer Setup
 ###Exercise 1.0
 1. Install Sublime Text 2. http://www.sublimetext.com/2
@@ -39,13 +49,3 @@ console.log('Hello World');
 ###Exercise 5.0 (jQuery DOM Manipulation)
 1. Open the file learntocodeoc/server/app.js
 2. 
-
-Tips:
-* On a Mac press Command + Space Bar to open the finder. Type in `Terminal`.
-* Navigate the file systems at the command line with, pwd, cd, and ls.
-* Create files at the command line with mkdir, and touch.
-* Copy, move files, and delete with cp, mv, and rm.
-* Print files with cat and less.
-* Create files and directories with style.
-- Always lower-case
-- Always separate words with hypens, instead of spaces
