@@ -69,3 +69,18 @@ server.listen(PORT, function(){
     console.log("Server listening on: http://localhost:%s", PORT);
 });
 ````
+
+###Exercise 6.0 (Express.js)
+1. Create a new file called router.js
+2. Add the following code to router.js
+````
+var express = require('express');
+var app = express();
+
+app.use(function(request, response, next) {
+  console.log(request.url);
+  next();
+})
+
+app.listen(1337);
+````
