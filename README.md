@@ -46,7 +46,11 @@ git clone https://github.com/ronperris/learntocodeoc.git
 console.log('Hello World');
 ````
 
-###Exercise 5.0 (node.js webserver)
+###Exercise 5.0 (HTTP)
+1. Install httpie or curl.
+2. Use these commands to make a request to http://example.org/
+
+###Exercise 6.0 (node.js webserver)
 1. Open the file learntocodeoc/server/app.js
 2. Type in the following.
 ````
