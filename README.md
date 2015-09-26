@@ -11,7 +11,7 @@ Wifi
 |----------------|--------------------------------|
 | 11:00 - 1200PM | Introductions / Computer Setup / Clone Our Repo |
 | 12:00 - 12:30PM | Break |
-| 12:30 - 1:30PM | Introduction to jQuery Event Listeners and DOM Manipulation |
+| 12:30 - 1:30PM | Introduction to node.js and building a web server! |
 
 ##Computer Setup
 ###Exercise 1.0
