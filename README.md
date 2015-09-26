@@ -70,7 +70,7 @@ server.listen(PORT, function(){
 });
 ````
 
-###Exercise 6.0 (Express.js)
+###Exercise 7.0 (Express.js)
 1. Create a new file called router.js
 2. Add the following code to router.js
 ````
