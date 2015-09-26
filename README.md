@@ -27,7 +27,7 @@ git clone https://github.com/ronperris/learntocodeoc.git
 
 ###Exercise 3.0 (Install node.js)
 1. Navigate to https://nodejs.org/en/download/ in your web browser.
-2. Install the correct version for you platform.
+2. Install the correct version for your platform.
 
 ###Exercise 4.0 (node.js REPL)
 1. Run the node.js command in your terminal. (Git Bash or Terminal)
