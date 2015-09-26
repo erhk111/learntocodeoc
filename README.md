@@ -37,7 +37,8 @@ console.log('Hello World');
 ````
 
 ###Exercise 5.0 (jQuery DOM Manipulation)
-1. Show and hide elements with toggle(). http://api.jquery.com/toggle/
+1. Open the file learntocodeoc/server/app.js
+2. 
 
 Tips:
 * On a Mac press Command + Space Bar to open the finder. Type in `Terminal`.
