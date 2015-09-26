@@ -46,6 +46,6 @@ git clone https://github.com/ronperris/learntocodeoc.git
 console.log('Hello World');
 ````
 
-###Exercise 5.0 (jQuery DOM Manipulation)
+###Exercise 5.0 (node.js webserver)
 1. Open the file learntocodeoc/server/app.js
 2. 
