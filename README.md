@@ -1,9 +1,10 @@
-# <pre>http://github.com/ronperris/learntocodeoc</pre>
+# Learn to Code
+#<pre>http://github.com/ronperris/learntocodeoc</pre>
 
 Wifi
 ----
-#### ROC3Wifi
-#### ROCnb4590
+#####ROC3Wifi
+#####ROCnb4590
 
 ##Schedule
 ###Saturday, October 10th 2015
