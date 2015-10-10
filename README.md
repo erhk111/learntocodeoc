@@ -1,6 +1,4 @@
-#Learn to Code
-
-#http://github.com/ronperris/learntocodeoc
+# <pre>http://github.com/ronperris/learntocodeoc</pre>
 
 Wifi
 ----
