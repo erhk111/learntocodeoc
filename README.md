@@ -25,6 +25,10 @@ Tips:
 1. Install [Sublime Text 2.](http://www.sublimetext.com/2)
 2. On Windows, Install [Git Bash](https://msysgit.github.io/)
 3. Install node.js through [HomeBrew.](http://brew.sh/)
+4. Install Gulp using npm.
+````
+npm install gulp -g
+````
 
 ###Exercise 2.0
 1. Clone our github repo.
