@@ -48,8 +48,3 @@ git clone https://github.com/ronperris/learntocodeoc.git
 ````
 console.log('Hello World');
 ````
-
-###Exercise 4.0 (Express.js)
-1. Create a new file called router.js
-````
-````
