@@ -22,8 +22,8 @@ Tips:
 
 ##Computer Setup
 ###Exercise 1.0
-1. Install Sublime Text 2. http://www.sublimetext.com/2
-2. On Windows, Install Git Bash (https://msysgit.github.io/)
+1. Install [Sublime Text 2.](http://www.sublimetext.com/2)
+2. On Windows, Install [Git Bash](https://msysgit.github.io/)
 3. Install node.js through [HomeBrew.](http://brew.sh/)
 
 ###Exercise 2.0
