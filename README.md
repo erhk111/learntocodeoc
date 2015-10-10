@@ -8,7 +8,7 @@ Wifi
 #### ROCnb4590
 
 ##Schedule
-###Saturday, September 26th 2015
+###Saturday, October 10th 2015
 | Time | Description |
 |----------------|--------------------------------|
 | 11:00 - 1200PM | Introductions / Computer Setup / Clone Our Repo |
@@ -29,6 +29,7 @@ Tips:
 ###Exercise 1.0
 1. Install Sublime Text 2. http://www.sublimetext.com/2
 2. On Windows, Install Git Bash (https://msysgit.github.io/)
+3. Install node.js through [HomeBrew.](http://brew.sh/)
 
 ###Exercise 2.0
 1. Clone our github repo.
@@ -37,11 +38,7 @@ Type the following in Terminal or Git Bash
 git clone https://github.com/ronperris/learntocodeoc.git
 ```
 
-###Exercise 3.0 (Install node.js)
-1. Navigate to https://nodejs.org/en/download/ in your web browser.
-2. Install the correct version for your platform.
-
-###Exercise 4.0 (node.js REPL)
+###Exercise 3.0 (node.js REPL)
 1. Run the node.js command in your terminal. (Git Bash or Terminal)
 2. Type in the following command.
 ````
@@ -52,25 +49,7 @@ console.log('Hello World');
 1. Install httpie or curl.
 2. Use these commands to make a request to http://example.org/
 
-###Exercise 6.0 (node.js webserver)
-1. Open the file learntocodeoc/server/app.js
-2. Type in the following.
-````
-var http = require('http');
-
-const PORT=8080; 
-
-var server = http.createServer(function(request, response) {
-  console.log(request.url);
-  response.end('Hello world.')
-});
-
-server.listen(PORT, function(){
-    console.log("Server listening on: http://localhost:%s", PORT);
-});
-````
-
-###Exercise 7.0 (Express.js)
+###Exercise 6.0 (Express.js)
 1. Create a new file called router.js
 2. Add the following code to router.js
 ````
