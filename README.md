@@ -12,6 +12,7 @@
 
 Tips:
 * On a Mac press Command + Space Bar to open the finder. Type in `Terminal`.
+* Ctrl+c will stop programs running from the command line.
 * Navigate the file systems at the command line with, pwd, cd, and ls.
 * Create files at the command line with mkdir, and touch.
 * Copy, move files, and delete with cp, mv, and rm.
@@ -23,9 +24,13 @@ Tips:
 ##Computer Setup
 ###Exercise 1.0
 1. Install [Sublime Text 2.](http://www.sublimetext.com/2)
+2. Make sure you have have the command *git* installed.
 2. On Windows, Install [Git Bash](https://msysgit.github.io/)
 3. Install node.js through [HomeBrew.](http://brew.sh/)
-4. Install Gulp using npm.
+````
+brew install node
+````
+4. Install Gulp using npm. The *npm* program comes with Node.js.
 ````
 npm install gulp -g
 ````
@@ -44,21 +49,7 @@ git clone https://github.com/ronperris/learntocodeoc.git
 console.log('Hello World');
 ````
 
-###Exercise 4.0 (HTTP)
-1. Install httpie or curl.
-2. Use these commands to make a request to http://example.org/
-
-###Exercise 5.0 (Express.js)
+###Exercise 4.0 (Express.js)
 1. Create a new file called router.js
-2. Add the following code to router.js
 ````
-var express = require('express');
-var app = express();
-
-app.use(function(request, response, next) {
-  console.log(request.url);
-  next();
-})
-
-app.listen(1337);
 ````
