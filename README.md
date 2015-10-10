@@ -45,11 +45,11 @@ git clone https://github.com/ronperris/learntocodeoc.git
 console.log('Hello World');
 ````
 
-###Exercise 5.0 (HTTP)
+###Exercise 4.0 (HTTP)
 1. Install httpie or curl.
 2. Use these commands to make a request to http://example.org/
 
-###Exercise 6.0 (Express.js)
+###Exercise 5.0 (Express.js)
 1. Create a new file called router.js
 2. Add the following code to router.js
 ````
