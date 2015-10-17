@@ -3,7 +3,7 @@
 #<pre>http://github.com/ronperris/learntocodeoc</pre>
 
 ##Schedule
-###Saturday, October 10th 2015
+###Saturday, October 17th 2015
 | Time | Description |
 |----------------|--------------------------------|
 | 11:00 - 1200PM | Introductions / Computer Setup / Clone Our Repo |
@@ -24,7 +24,10 @@ Tips:
 ##Computer Setup
 ###Exercise 1.0
 1. Install [Sublime Text 2.](http://www.sublimetext.com/2)
-2. Make sure you have have the command *git* installed.
+2. Make sure you have have the command *git* installed. Run this in Terminal.
+````
+git --version
+````
 2. On Windows, Install [Git Bash](https://msysgit.github.io/)
 3. Install node.js through [HomeBrew.](http://brew.sh/)
 ````
@@ -48,3 +51,6 @@ git clone https://github.com/ronperris/learntocodeoc.git
 ````
 console.log('Hello World');
 ````
+
+###Exercise 4.0 (Jade)
+1.  
