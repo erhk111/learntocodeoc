@@ -8,7 +8,12 @@ profile.use(function(req, res, next) {
 })
 
 profile.get('/', function(req, res) {
-  res.send('The profile.') 
+  res.send('<h2>The profile.</h2>') 
+})
+
+profile.get('/list/:user', function(req, res) {
+  var user = req.params.user;
+  res.send('<h2>Here is the list for ' + user + '</h1>')
 })
 
 module.exports = profile;
