@@ -53,4 +53,4 @@ console.log('Hello World');
 ````
 
 ###Exercise 4.0 (Jade)
-1.  
+1. Define a new route with a server side Jade template.
