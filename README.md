@@ -3,7 +3,7 @@
 #<pre>http://github.com/ronperris/learntocodeoc</pre>
 
 ##Schedule
-###Saturday, October 17th 2015
+###Saturday, November 7th 2015
 | Time | Description |
 |----------------|--------------------------------|
 | 11:00 - 1200PM | Introductions / Computer Setup / Clone Our Repo |
@@ -11,6 +11,7 @@
 | 12:30 - 1:30PM | Introduction to node.js and building a web server! |
 
 Tips:
+* Look up words you don't know the meaning of using google.
 * On a Mac press Command + Space Bar to open the finder. Type in `Terminal`.
 * Ctrl+c will stop programs running from the command line.
 * Navigate the file systems at the command line with, pwd, cd, and ls.
@@ -47,7 +48,7 @@ git clone https://github.com/ronperris/learntocodeoc.git
 
 ###Exercise 3.0 (node.js REPL)
 1. Run the node.js command in your terminal. (Git Bash or Terminal)
-2. Type in the following command.
+2. Type the following into the node.js REPL.
 ````
 console.log('Hello World');
 ````
