@@ -35,7 +35,7 @@ Introduction to HTML, Bootstrap and the Grid.
 The Internet, WWW and Server-Side JavaScript
 --------------------------------------------
 ###Exercise 1.3 
-1. Install node.js.
+1. Install node.js. [Here](https://nodejs.org/en/)
 
 Hint: Mac OS X users can use [HomeBrew.](http://brew.sh/)
 ````
