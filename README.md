@@ -49,6 +49,9 @@ brew install node
 node app.js
 ````
 
+Jade and Server-Side Rendering
+-------------------------------
+
 ###Exercise 1.5 Jade
 1. Create the profile page using [Bootstrap](http://getbootstrap.com/components/) and [Jade](http://jade-lang.com/reference/).
 2. Add a form with a submit button for changing the users profile information. Use [Bootstrap form components.](http://getbootstrap.com/css/#forms)
