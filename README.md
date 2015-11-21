@@ -19,7 +19,7 @@ Example: [Sublime Text 2.](http://www.sublimetext.com/2)
 1. Download the code.
 [Here.](https://github.com/ronperris/learntocodeoc/archive/master.zip)
 
-Introduction to HTML, Bootstrap and the Grid.
+Introduction to HTML, CSS, Bootstrap and the Grid.
 ---------------------------------------------
 
 ###Exercise 1.2
