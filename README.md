@@ -19,7 +19,7 @@ Example: [Sublime Text 2.](http://www.sublimetext.com/2)
 1. Download the code.
 [Here.](https://github.com/ronperris/learntocodeoc/archive/master.zip)
 
-Introduction to HTML, CSS, Bootstrap and the Grid.
+Internet, WWW, HTML, CSS, Bootstrap and the Grid.
 ---------------------------------------------
 
 ###Exercise 1.2
@@ -32,7 +32,7 @@ Introduction to HTML, CSS, Bootstrap and the Grid.
 </div>
 ````
 
-The Internet, WWW, Client vs. Server-Side JavaScript
+Javascript, Client vs. Server-Side JavaScript
 --------------------------------------------
 ###Exercise 1.3 
 1. Install node.js. [Here](https://nodejs.org/en/)
