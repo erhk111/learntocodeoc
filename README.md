@@ -51,3 +51,5 @@ node app.js
 
 ###Exercise 1.5 Jade
 1. Create the profile page using [Bootstrap](http://getbootstrap.com/components/) and [Jade](http://jade-lang.com/reference/).
+2. Add a form with a submit button for changing the users profile information. Use [Bootstrap form components.](http://getbootstrap.com/css/#forms)
+3. Add an image of the user. Use [Bootstrap image components.](http://getbootstrap.com/css/#images)
