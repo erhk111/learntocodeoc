@@ -34,7 +34,7 @@ Introduction to HTML, Bootstrap and the Grid.
 
 The Internet, WWW and Server Side JavaScript
 --------------------------------------------
-###Exercise 1.3
+###Exercise 1.3 
 1. Install node.js.
 
 Hint: Mac OS X users can use [HomeBrew.](http://brew.sh/)
@@ -48,3 +48,6 @@ brew install node
 ````
 node app.js
 ````
+
+###Exercise 1.5 Jade
+1. Create the profile page using Bootstrap and Jade.
