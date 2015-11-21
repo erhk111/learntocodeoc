@@ -32,7 +32,7 @@ Introduction to HTML, Bootstrap and the Grid.
 </div>
 ````
 
-The Internet, WWW and Server Side JavaScript
+The Internet, WWW and Server-Side JavaScript
 --------------------------------------------
 ###Exercise 1.3 
 1. Install node.js.
