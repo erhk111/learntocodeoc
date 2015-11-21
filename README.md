@@ -50,4 +50,4 @@ node app.js
 ````
 
 ###Exercise 1.5 Jade
-1. Create the profile page using Bootstrap and Jade.
+1. Create the profile page using [Bootstrap](http://getbootstrap.com/components/) and [Jade](http://jade-lang.com/reference/).
