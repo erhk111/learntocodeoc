@@ -3,7 +3,6 @@
 #<pre>http://github.com/ronperris/learntocodeoc</pre>
 
 ##Schedule
-###Saturday, November 21st 2015
 | Time | Description |
 |----------------|--------------------------------|
 | 11:00 - 1200PM | Introductions / Computer Setup / Download the Code |
