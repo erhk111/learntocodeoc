@@ -1,7 +1,4 @@
 # Learn to Code
-#<pre>Wifi: ROC3Wifi ROCnb4590</pre>
-#<pre>http://github.com/ronperris/learntocodeoc</pre>
-
 ##Schedule
 | Time | Description |
 |----------------|--------------------------------|
