@@ -1,11 +1,12 @@
 # Learn to Code
 wifi: ROC 3 WiFi
 password: ROCnb4590
+https://github.com/ronperris/learntocodeoc
 
 ##Schedule
 | Time | Description |
 |----------------|--------------------------------|
-| 11:00 - 1200PM | Introductions / Computer Setup / Download the Code |
+| 11:30 - 1200PM | Introductions / Computer Setup / Download the Code |
 | 12:00 - 12:30PM | Break |
 | 12:30 - 1:30PM | Introduction to node.js and building a web server! |
 
