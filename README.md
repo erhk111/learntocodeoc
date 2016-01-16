@@ -1,4 +1,7 @@
 # Learn to Code
+wifi: ROC 3 WiFi
+password: ROCnb4590
+
 ##Schedule
 | Time | Description |
 |----------------|--------------------------------|
