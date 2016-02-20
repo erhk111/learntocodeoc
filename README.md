@@ -31,15 +31,15 @@ Internet, WWW, HTML, CSS, Bootstrap and the Grid.
 
 Front-end Javascript
 --------------------
-###Exercise Three
+###Exercise Two
 1. Create front-end JavaScript file.
 2. Select an element from the DOM.
 3. Add an event listener.
 
 Server-Side JavaScript
 ----------------------
-###Exercise Four
+###Exercise Three
 1. Install node.js from [here.](https://nodejs.org/en/)
 
-###Exercise Five
+###Exercise Four
 1. Write a webserver using Node.js and Express.
