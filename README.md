@@ -13,7 +13,7 @@ password: ROCnb4590
 ##Computer Setup
 ###Exercise 1.0
 1. Install a code editor if you don't have one already. 
-Example: [Sublime Text 2.](http://www.sublimetext.com/2)
+Example: [Atom](https://atom.io/)
 
 ###Exercise 1.1
 1. Download the code.
