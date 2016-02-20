@@ -10,7 +10,8 @@ password: ROCnb4590
 | 12:00 - 12:30PM | Break |
 | 12:30 - 1:30PM | JavaScript |
 
-##Skills:
+Prerequisite Skills:
+--------------------
 1. Advanced Reading Comprehension
 2. Advanced Computer Graphical Interface Navigation
 3. Commandline Interfaces
