@@ -6,9 +6,9 @@ password: ROCnb4590
 ##Schedule
 | Time | Description |
 |----------------|--------------------------------|
-| 11:30 - 1200PM | Introductions / Computer Setup / Download the Code |
+| 11:30 - 1200PM | Introductions / HTML & CSS |
 | 12:00 - 12:30PM | Break |
-| 12:30 - 1:30PM | Introduction to node.js and building a web server! |
+| 12:30 - 1:30PM | JavaScript |
 
 ##Skills:
 1. Advanced Reading Comprehension
@@ -21,32 +21,24 @@ password: ROCnb4590
 1. Install a code editor if you don't have one already. 
 2. For example [Atom.](https://atom.io/)
 
-###Exercise One
-1. Download the code.
-[Here.](https://github.com/ronperris/learntocodeoc/archive/master.zip)
-
 Internet, WWW, HTML, CSS, Bootstrap and the Grid.
 ---------------------------------------------
+###Exercise One
+1. Create an index.html file.
+2. Link in Bootstrap.
+3. Create a simple website with a button.
 
-###Exercise Two
-1. Add this block of markup to the correct part of the page, near line 48 of index.html. Resize the elements around it to fit it on the same row.
-````
-<div class="col-md-3">
-    <h2>Heading</h2>
-    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-    <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-</div>
-````
-
-Javascript, Client vs. Server-Side JavaScript
---------------------------------------------
+Front-end Javascript
+--------------------
 ###Exercise Three
+1. Create front-end JavaScript file.
+2. Select an element from the DOM.
+3. Add an event listener.
+
+Server-Side JavaScript
+----------------------
+###Exercise Four
 1. Install node.js from [here.](https://nodejs.org/en/)
 
-Hint: Mac OS X users can use [HomeBrew.](http://brew.sh/)
-````
-brew install node
-````
-
-###Exercise Four
+###Exercise Five
 1. Write a webserver using Node.js and Express.
