@@ -10,6 +10,12 @@ password: ROCnb4590
 | 12:00 - 12:30PM | Break |
 | 12:30 - 1:30PM | Introduction to node.js and building a web server! |
 
+##Skills:
+1. Advanced Reading Comprehension
+2. Advanced Computer Graphical Interface Navigation
+3. Commandline Interfaces
+4. Hierarchical File Systems
+
 ##Computer Setup
 ###Exercise Zero
 1. Install a code editor if you don't have one already. 
