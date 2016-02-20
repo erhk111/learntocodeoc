@@ -11,18 +11,18 @@ password: ROCnb4590
 | 12:30 - 1:30PM | Introduction to node.js and building a web server! |
 
 ##Computer Setup
-###Exercise 1.0
+###Exercise Zero
 1. Install a code editor if you don't have one already. 
 Example: [Atom](https://atom.io/)
 
-###Exercise 1.1
+###Exercise One
 1. Download the code.
 [Here.](https://github.com/ronperris/learntocodeoc/archive/master.zip)
 
 Internet, WWW, HTML, CSS, Bootstrap and the Grid.
 ---------------------------------------------
 
-###Exercise 1.2
+###Exercise Two
 1. Add this block of markup to the correct part of the page, near line 48 of index.html. Resize the elements around it to fit it on the same row.
 ````
 <div class="col-md-3">
@@ -34,7 +34,9 @@ Internet, WWW, HTML, CSS, Bootstrap and the Grid.
 
 Javascript, Client vs. Server-Side JavaScript
 --------------------------------------------
-###Exercise 1.3 
+###Exercise Three
+
+###Exercise Four
 1. Install node.js. [Here](https://nodejs.org/en/)
 
 Hint: Mac OS X users can use [HomeBrew.](http://brew.sh/)
@@ -42,17 +44,9 @@ Hint: Mac OS X users can use [HomeBrew.](http://brew.sh/)
 brew install node
 ````
 
-###Exercise 1.4
+###Exercise Five
 1. Update the message on line 18 of app.js.
 2. Start your webserver with the following command.
 ````
 node app.js
 ````
-
-Jade and Server-Side Rendering
--------------------------------
-
-###Exercise 1.5 Jade
-1. Create the profile page using [Bootstrap](http://getbootstrap.com/components/) and [Jade](http://jade-lang.com/reference/).
-2. Add a form with a submit button for changing the users profile information. Use [Bootstrap form components.](http://getbootstrap.com/css/#forms)
-3. Add an image of the user. Use [Bootstrap image components.](http://getbootstrap.com/css/#images)
