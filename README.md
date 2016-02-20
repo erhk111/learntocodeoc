@@ -35,7 +35,7 @@ Internet, WWW, HTML, CSS, Bootstrap and the Grid.
 Javascript, Client vs. Server-Side JavaScript
 --------------------------------------------
 ###Exercise Three
-1. Install node.js. [Here](https://nodejs.org/en/)
+1. Install node.js from [here.](https://nodejs.org/en/)
 
 Hint: Mac OS X users can use [HomeBrew.](http://brew.sh/)
 ````
