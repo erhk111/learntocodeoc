@@ -35,8 +35,6 @@ Internet, WWW, HTML, CSS, Bootstrap and the Grid.
 Javascript, Client vs. Server-Side JavaScript
 --------------------------------------------
 ###Exercise Three
-
-###Exercise Four
 1. Install node.js. [Here](https://nodejs.org/en/)
 
 Hint: Mac OS X users can use [HomeBrew.](http://brew.sh/)
@@ -44,9 +42,5 @@ Hint: Mac OS X users can use [HomeBrew.](http://brew.sh/)
 brew install node
 ````
 
-###Exercise Five
-1. Update the message on line 18 of app.js.
-2. Start your webserver with the following command.
-````
-node app.js
-````
+###Exercise Four
+1. Write a webserver using Node.js and Express.
