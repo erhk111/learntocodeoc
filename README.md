@@ -6,9 +6,9 @@ password: ilovecode
 ##Schedule
 | Time | Description |
 |----------------|--------------------------------|
-| 11:30 - 1200PM | Introductions / HTML & CSS |
+| 11:00 - 12:00PM | Introductions / HTML & CSS |
 | 12:00 - 12:30PM | Break |
-| 12:30 - 1:30PM | JavaScript |
+| 12:30 - 1:00PM | JavaScript |
 
 Prerequisite Skills:
 --------------------
