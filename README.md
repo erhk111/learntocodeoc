@@ -1,6 +1,6 @@
 # Learn to Code
-wifi: ROC 3 WiFi
-password: ROCnb4590
+wifi: black
+password: ilovecode
 ####https://github.com/ronperris/learntocodeoc
 
 ##Schedule
